@@ -31,6 +31,9 @@ files {
 
 }
 
+-- shells
+data_file 'DLC_ITYP_REQUEST' 'starter_shells_k4mb1.ytyp'
+
 -- vehicles
 data_file 'HANDLING_FILE' 'stream/**/**/handling.meta'
 data_file 'VEHICLE_METADATA_FILE' 'stream/**/**/vehicles.meta'
@@ -40,6 +43,10 @@ data_file 'VEHICLE_VARIATION_FILE' 'stream/**/**/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE' 'stream/**/**/dlctext.meta'
 data_file 'VEHICLE_METADATA_FILE' 'stream/**/**/contentunlocks.meta'
 data_file 'AMBIENT_PED_MODEL_SET_FILE' 'stream/**/**/ambientpedmodelsets.meta'
+
+-- peds
+
+
 -- props
 data_file 'DLC_ITYP_REQUEST' 'stream/**/**/badges.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'stream/**/**/bzzz_effect_cigarpack.ytyp'
